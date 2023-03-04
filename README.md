@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hola! soy Lucas Mierez
+### Soy de Argentina, vivo en la ciudad de corrientes capital, provincia de Corrientes
+Me gusta la medicina, soy tecnico Radiologo y actualmente estoy inmiscuyendome en el mundo de la programacion.
 
-<!--
-**nykacmierez/Nykacmierez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Mis estudios:**
+> Secundrio Completo
+>
+>> Terciario Completo
+> Carrera de Diagnostico por Imagenes en Cruz Roja Argentina, filial Corrientes
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Mis comandos preferidos
+| Comando | Descripcion |
+|:--------:|:------------:|
+|**cl** | _limpia la cadena de comndos_ |
+| **pwd**| _ubicacion actual_ |
+| **cd** | _navegar entre las carpetas_ |
+| **mkdir** | _crea carpetas nuevas_ |
